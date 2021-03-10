@@ -1,4 +1,3 @@
-package OOps;
 public class array {
     public static void main(String[] args) {
         // array:-collection of homogenous data
